@@ -1,5 +1,11 @@
 ### Hi there 👋
+🌱 I’m currently learning **Computer Science**
 
+
+🤔 I’m looking for help with **learning more about coding**
+
+
+⚡ Fun fact: I am a **musician** :)
 <!--
 **MattBerania/MattBerania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +18,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am a musician :)
 -->
