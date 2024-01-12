@@ -1,11 +1,17 @@
 ### Hi there 👋
-🌱 I’m currently learning **Computer Science**
+🌱 I’m currently learning **Computer Science at Toronto Metropolitan University!**
 
 
-🤔 I’m looking for help with **learning more about coding**
+🤔 I’m looking for help with **Full-Stack Development**
 
 
 ⚡ Fun fact: I am a **musician** :)
+
+-----
+📫 How to reach me: 
+- Linkedin: https://www.linkedin.com/in/matthew-berania/
+- Email: mberania@torontomu.ca
+
 <!--
 **MattBerania/MattBerania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
