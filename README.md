@@ -26,7 +26,7 @@ Here’s what I’ve been working with recently:
 ### 🌍 Outside of Tech
 - 📺 I watch a lot of YouTube—especially content about tech, music, and gaming  
 - 🎮 I enjoy playing Minecraft and other creative/sandbox games  
-- 🧘 I'm big on mindfulness, personal growth, and keeping a balanced routine
+- 🧘 I'm big on mindfulness, personal growth, and going to the gym
 
 ---
 
