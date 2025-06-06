@@ -1,28 +1,38 @@
-### Hi there 👋
-🌱 I’m currently learning **Computer Science at Toronto Metropolitan University!**
+### Hi there 👋 I'm Matthew Berania!
 
+🎓 I'm a Computer Science student at **Toronto Metropolitan University** (Graduating 2027) and an aspiring Software Developer!
 
-🤔 I’m looking for help with **Full-Stack Development**
+🌐 I'm currently focused on learning and improving in:
+- **Full-Stack Development** (React, Node.js, Firebase, Tailwind, etc.)
+- **Database design and SQL querying**
+- **Machine learning fundamentals with Python and TensorFlow**
 
+🤝 I'm looking to:
+- Contribute to intermediate open-source projects that challenge me to grow as a developer
+- Work alongside experienced devs to deepen my understanding of scalable and maintainable code
 
-⚡ Fun fact: I am a **musician** :)
+🎸 Fun fact: I'm also a **musician** – I play guitar, bass, piano, and I sing!
 
------
-📫 How to reach me: 
-- Linkedin: https://www.linkedin.com/in/matthew-berania/
-- Email: mberania@torontomu.ca
+---
 
-<!--
-**MattBerania/MattBerania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Technologies & Tools  
+Here’s what I’ve been working with recently:
+- **Frameworks/Libraries:** React Native, Tailwind CSS  
+- **Languages:** JavaScript, TypeScript  
+- **Tools:** Expo, Git & GitHub  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning *Computer Science*
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a musician :)
--->
+### 🌍 Outside of Tech
+- 📺 I watch a lot of YouTube—especially content about tech, music, and gaming  
+- 🎮 I enjoy playing Minecraft and other creative/sandbox games  
+- 🧘 I'm big on mindfulness, personal growth, and keeping a balanced routine
+
+---
+
+📫 **How to reach me:**
+- 💼 [LinkedIn](https://www.linkedin.com/in/matthew-berania/)
+- 📧 Email: mberania@torontomu.ca
+- 🌐 [Portfolio Website](https://matthew-berania.netlify.app/)
+
+Thanks for visiting! 😊
