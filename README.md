@@ -3,9 +3,9 @@
 🎓 I'm a Computer Science student at **Toronto Metropolitan University** (Graduating 2027) and an aspiring Software Developer!
 
 🌐 I'm currently focused on learning and improving in:
-- **Full-Stack Development** (React, Node.js, Firebase, Tailwind, etc.)
+- **Full-Stack Development** 
 - **Database design and SQL querying**
-- **Machine learning fundamentals with Python and TensorFlow**
+- **Machine learning fundamentals**
 
 🤝 I'm looking to:
 - Contribute to intermediate open-source projects that challenge me to grow as a developer
