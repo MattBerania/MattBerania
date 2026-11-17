@@ -1,38 +1,50 @@
-### Hi there 👋 I'm Matthew Berania!
+# Hi, I'm Matthew Berania 👋
 
-🎓 I'm a Computer Science student at **Toronto Metropolitan University** (Graduating 2027) and an aspiring Software Developer!
+I'm a **Computer Science student at Toronto Metropolitan University**, graduating in 2027, and currently working as a **Co-op Developer at the Ontario Public Service**.
 
-🌐 I'm currently focused on learning and improving in:
-- **Full-Stack Development** 
-- **Database design and SQL querying**
-- **Machine learning fundamentals**
+I'm interested in **software engineering, full-stack development, and developer tooling**. I enjoy building practical applications, solving problems, and understanding how software works behind the scenes.
 
-🤝 I'm looking to:
-- Contribute to intermediate open-source projects that challenge me to grow as a developer
-- Work alongside experienced devs to deepen my understanding of scalable and maintainable code
+### 💻 What I'm Up To
 
-🎸 Fun fact: I'm also a **musician** – I play guitar, bass, piano, and I sing!
+- 🔨 Working with **C#, .NET, JavaScript, and SQL** in my current co-op role.
+- 🛠️ Exploring **AI-assisted developer tools** and accessibility-focused software.
+- 🌐 Rebuilding my personal portfolio using **React and TypeScript**.
+- 📚 Strengthening my understanding of **software architecture, backend development, and data structures & algorithms**.
 
----
+### 🛠️ Technologies & Tools
 
-### 🔧 Technologies & Tools  
-Here’s what I’ve been working with recently:
-- **Frameworks/Libraries:** React Native, Tailwind CSS  
-- **Languages:** JavaScript, TypeScript  
-- **Tools:** Expo, Git & GitHub  
+**Languages:** TypeScript, JavaScript, Java, C#, Python, SQL
 
----
+**Frontend:** React, React Native, HTML, CSS, Tailwind CSS
 
-### 🌍 Outside of Tech
-- 📺 I watch a lot of YouTube—especially content about tech, music, and gaming  
-- 🎮 I enjoy playing Minecraft and other creative/sandbox games  
-- 🧘 I'm big on mindfulness, personal growth, and going to the gym
+**Backend & Databases:** .NET, Spring Boot, Node.js, PostgreSQL, SQL Server, Oracle SQL
 
----
+**Developer Tools:** Git, GitHub, Docker, Playwright, VS Code, Azure DevOps
 
-📫 **How to reach me:**
+### 🚀 Featured Projects
+
+**OPS AODA Agent**  
+A VS Code extension that detects accessibility issues in HTML and ASP.NET Razor files, provides diagnostics, and supports AI-assisted remediation.
+
+### 🚧 Work in Progress
+
+**Portfolio V2**  
+Rebuilding my personal portfolio using React, TypeScript, and Vite.
+
+**Cubelytics**  
+Developing a speedcubing analytics application focused on tracking solves, visualizing statistics, and identifying performance trends.
+
+### 🎸 Outside of Coding
+
+When I'm not programming, you'll probably find me:
+
+- 🎹 Playing music (guitar, bass, piano, and vocals).
+- 🧩 Speedcubing and trying to improve my times.
+- 🎧 Exploring music production, specifically DnB.
+- 🎮 Watching content about coding, music, slefand gaming.
+
+### 📫 Connect With Me
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/matthew-berania/)
-- 📧 Email: mberania@torontomu.ca
-- 🌐 [Portfolio Website](https://matthew-berania.netlify.app/)
-
-Thanks for visiting! 😊
+- 🌐 [Portfolio](https://matthew-berania.netlify.app/)
+- 📧 [Email](mailto:mberania@torontomu.ca)
